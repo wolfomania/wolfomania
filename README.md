@@ -12,7 +12,8 @@
 
 - A passionate Back-end Developer
 - Participated in engineering and programming hackathons
-- Currently learning Spring Framework, Google Cloud and .Net
+- Currently diving into the field of networks and security
+- Researching Quantum Computing
 - Doing leetcode chalanges at spare time
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
