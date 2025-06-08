@@ -1,7 +1,7 @@
-<h1 align="center"><b>Hi , I'm Andrii </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Andrii;Currently+I'm+studying+at+PJATK;Computer+Science+major;Back-end+Developer;Cloud+Engineer;Active+Learner%26Researcher;Love+to+learn+new+stuff" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Andrii;Currently+I'm+studying+at+PJATK;Computer+Science+major;Back-end+Developer;Cloud+Architect;Active+Learner%26Researcher;Love+to+learn+new+stuff" alt="Typing SVG" />
 </p>
 
 <br>
@@ -10,11 +10,12 @@
 
 <br>
 
-- A passionate Back-end Developer
+- A professional Back-end Developer
 - Participated in engineering and programming hackathons
-- Currently diving into the field of networks and security
-- Researching Quantum Computing
-- Doing leetcode chalanges at spare time
+- CTF creator
+- Network enthusiast
+- Cloud Architect
+- Quantum Computing Researcher (ML optimization)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
